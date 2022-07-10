@@ -1179,10 +1179,10 @@
     winston "^3.3.3"
     yargs "^15.3.1"
 
-"@medusajs/medusa@^1.3.3":
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-1.3.3.tgz#ce3b0ab5b1e0622b90a010991ee4813624f255f2"
-  integrity sha512-uvtAlqohYA8dOUHaI11gFreKmB7GTxOhtISnKvcjJ6bX0Y5KrhCg+DJbEgvxG7v1Zn3pmCu1u2TDqj3bLHPzhQ==
+"@medusajs/medusa@^1.3.3-alpha.26":
+  version "1.3.3-alpha.26"
+  resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-1.3.3-alpha.26.tgz#86cbee461037a16155e7497cb71a702078bfc730"
+  integrity sha512-3CpzppBzhHfM0ivImbNyLnKT5eoOqhV4CWDj/7oa+VhHhre3n+/jlpNf1d/T2JFZRM4pcSXsIVnOuBCRHvbhkw==
   dependencies:
     "@hapi/joi" "^16.1.8"
     "@medusajs/medusa-cli" "^1.3.1"
